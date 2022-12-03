@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lahiru Shyamal</h1>
 <h3 align="center">A passionate Electronic & Telecommunication engineer..</h3>
 
-<p align="right"><img align="right" alt="Coding" width="400" src="https://tecnico.ulisboa.pt/files/2021/08/seminario-em-matematica-fisica-machine-learning-j-nathan-kutz.jpg">
+<p align="right"><img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1313024657/photo/artificial-intelligence-concept.jpg?b=1&s=170667a&w=0&k=20&c=LFgFYyNOKA7BX3AWI24RjMAzKuTbl803r380rxvOG4Y=">
 
 - 🌱 I’m currently learning **Machine Learning, FPGA Designing**
 
