@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lahiru Shyamal</h1>
 <h3 align="center">A passionate Electronic & Telecommunication engineer..</h3>
 
-<p align="right"><img align="right" alt="Coding" width="400" src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90](https://media.istockphoto.com/id/1188293935/photo/artificial-intelligence-concept.jpg?s=612x612&w=0&k=20&c=XPvUB0EgZcRSYuJ6ul6mOLiG3V9oTNzksLRZRTyNCrA=">
+<p align="right"><img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1188293935/photo/artificial-intelligence-concept.jpg?s=612x612&w=0&k=20&c=XPvUB0EgZcRSYuJ6ul6mOLiG3V9oTNzksLRZRTyNCrA=">
 
 - 🌱 I’m currently learning **Machine Learning, FPGA Designing**
 
