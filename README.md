@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lahiru shyamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahiru shyamal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/180601t_entc_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="180601t_entc_18" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/lahiru-shyamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/lahiru-shyamal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/180601t_entc_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/180601t_entc_18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
